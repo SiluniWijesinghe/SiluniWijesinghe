@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Siluni Wijesinghe
 
-I am a final-year IT undergraduate at the **University of Moratuwa** with a passion for building scalable full-stack applications and exploring machine vision. I recently completed an internship as a **Full Stack Software Engineer** at Agrithmics.
+I am a final-year IT undergraduate at the **University of Moratuwa** with a passion for building scalable full-stack applications and new technologies. I recently completed an internship as a **Full Stack Software Engineer** at Agrithmics.
 
 ### 🔭 Currently Working On
 * **Final Year Research:** Developing a Machine Vision Framework for Ayurvedic Medicinal Leaves using Python, OpenCV, and CNNs.
