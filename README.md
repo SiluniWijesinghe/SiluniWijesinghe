@@ -5,7 +5,7 @@ Software Engineer building full-stack systems that actually ship - from enterpri
 🎓 B.Sc. (Hons.) IT, University of Moratuwa (GPA 3.75, First Class)  
 💼 Ex-Intern, Full Stack Software Engineer @ Agrithmics (Cultive8 Technologies)  
 🌱 Currently sharpening AI/ML fundamentals and exploring how they intersect with software engineering  
-🔗 Portfolio: [siluniwijesinghe.vercel.app/](https://siluniwijesinghe.vercel.app/)  
+🔗 Portfolio: [siluniwijesinghe.vercel.app](https://siluniwijesinghe.vercel.app/)  
 
 ---
 
