@@ -1,23 +1,22 @@
-# Hi there 👋 I'm Siluni Wijesinghe
+# Hi, I'm Siluni Wijesinghe 👋
 
-I am a final-year IT undergraduate at the **University of Moratuwa** with a passion for building scalable full-stack applications and new technologies. I recently completed an internship as a **Full Stack Software Engineer** at Agrithmics.
+Software Engineer building full-stack systems that actually ship - from enterprise ERP modules to AI-driven web apps.
 
-### 🔭 Currently Working On
-* **Final Year Research:** Developing a Machine Vision Framework for Ayurvedic Medicinal Leaves using Python, OpenCV, and CNNs.
-* **CentralSync:** An Inventory Management System designed for efficiency.
-* **Pathwise:** An AI-powered career guidance platform.
+🎓 B.Sc. (Hons.) IT, University of Moratuwa (GPA 3.75, First Class)
+💼 Ex-Intern, Full Stack Software Engineer @ Agrithmics (Cultive8 Technologies) 
+🌱 Currently sharpening AI/ML fundamentals and exploring how they intersect with software engineering
+🔗 Portfolio: [siluniwijesinghe.vercel.app/](https://siluniwijesinghe.vercel.app/)
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** Java, C#, Python.
-* **Frontend:** React, Next.js.
-* **Backend:** Spring Boot, .NET.
-* **Testing & DevOps:** Cypress, Cucumber, Azure DevOps, Git.
+---
 
-### 🌱 Learning & Interests
-* Currently diving deeper into Machine Learning and Computer Vision for my research project.
-* Interested in software architecture and cloud-native development.
+### What I work with
+`Java` `Spring Boot` `C# / .NET` `ASP.NET Core` `React.js` `TypeScript` `SQL Server` `MySQL` `Dapper` `Entity Framework Core` `RabbitMQ` `Redis` `Python`
 
-### 📫 How to Reach Me
-* **LinkedIn:** [linkedin.com/siluni-wijesinghe](https://www.linkedin.com/in/siluni-wijesinghe-81009728a)
-* **Email:** [wijesinghe.anj@gmail.com](mailto:wijesinghe.anj@gmail.com)
-* **Location:** Colombo, Sri Lanka
+### A few things I've built
+- **CentralSync** - cross-platform inventory management system
+- **Pathwise** - AI-powered career guidance platform with real-time messaging (WebSocket/STOMP)
+- **VedaVision** - Ayurvedic species identification using ML/computer vision
+
+---
+
+📫 Let's connect - always open to interesting engineering problems and good conversations about AI/ML.
